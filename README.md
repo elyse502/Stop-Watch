@@ -1,5 +1,5 @@
 # Stopwatch ⌚
-Welcome to the Stopwatch application! This is a simple and intuitive stopwatch built with vanilla JavaScript. Track time with precision and convenience using this easy-to-use stopwatch.
+Welcome to the Stopwatch application! This is a simple and intuitive stopwatch built with vanilla JavaScript. Track time with precision and convenience using this easy-to-use stopwatch. 👉 [_Link_](https://elyse502.github.io/Stop-Watch/)
 
 ## Features ⛑️:
 * **Start:** Initiate the stopwatch to begin counting time.
